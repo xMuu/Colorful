@@ -26,7 +26,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit; ?>
 </head>
 <body>
 <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
-    <header class="mdl-layout__header"<?php if ($this->options->topUrl): ?> style="background-image: url(<?php $this->options->topUrl() ?>);"<?php endif; ?>>
+    <header class="mdl-layout__header  mdl-layout__header--waterfall"<?php if ($this->options->topUrl): ?> style="background-image: url(<?php $this->options->topUrl() ?>);"<?php endif; ?>>
         <div class="mdl-layout__header-row">
             <!-- Title -->
             <span class="mdl-layout-title"><?php $this->options->title() ?></span>
