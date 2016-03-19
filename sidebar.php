@@ -17,7 +17,7 @@
             <ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect"
                 data-mdl-for="col1-menu-bottom-right">
                 <li class="mdl-menu__item"><a class="mdl-navigation__link" href="<?php if ($this->options->AuthorGithub): $this->options->AuthorGithub(); endif; ?>" target="_blank">Github</a></li>
-                <li class="mdl-menu__item"><a class="mdl-navigation__link" href="<?php if ($this->options->AuthorGithub): $this->options->AuthorWeibo(); endif; ?>" target="_blank">Weibo</a></li>
+                <li class="mdl-menu__item"><a class="mdl-navigation__link" href="<?php if ($this->options->AuthorWeibo): $this->options->AuthorWeibo(); endif; ?>" target="_blank">Weibo</a></li>
             </ul>
         </div>
     </div>
