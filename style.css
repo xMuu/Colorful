@@ -1,5 +1,5 @@
-html,body,.mdl-layout-title,.mdl-textfield__input,.mdl-card__title-text,.continue-button,.post-title,.archive-title,.comments,h1,h2,h3,h4,h5,h6,button {
-    font-family: "Helvetica","STHeiti","Microsoft Yahei", sans-serif !important;
+html,body,.mdl-layout-title,.mdl-textfield__input,.mdl-card__title-text,.continue-button,.post-title,.archive-title,.comments,h1,h2,h3,h4,h5,h6,button,span,code {
+    font-family: "Open Sans","STHeiti","Microsoft Yahei", sans-serif !important;
 }
 a{
     text-decoration: none !important;

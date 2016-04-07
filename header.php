@@ -21,6 +21,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit; ?>
     <link rel="stylesheet" href="<?php $this->options->themeUrl('style.css'); ?>">
     <link rel="stylesheet" href="<?php $this->options->themeUrl('material.min.css'); ?>">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'>
 
     <?php $this->header(); ?>
 </head>
